@@ -11,7 +11,15 @@
 - 📫 How to reach me: ph.schaefer@protonmail.com
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I love geocaching and listening to country music
-<br />
+
+##
+
+### Connect with me:
+
+[<img alt="phschaefer | Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
+[<img alt="phschaefer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+##
 
 ### Languages and Tools:
 <img align="left" alt="Intellij-IDEA" width="26px" src="intellij-idea.png" />
@@ -38,3 +46,6 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+[xing]: https://www.xing.com/profile/Philipp_Schaefer90/cv
+[linkedin]: https://www.linkedin.com/in/philipp-sch%C3%A4fer-231088146/
