@@ -1,28 +1,22 @@
-### Hi there, I'm Philipp 👋
+### Hi there, I'm Philipp 👋 👨‍💻
 
 
 ### I'm a passionate software developer
 
-<!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning everything
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: ph.schaefer@protonmail.com
-<!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I love geocaching and listening to country music
 
 ##
 
 ### Connect with me:
-
-[<img alt="phschaefer | Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
-[<img alt="phschaefer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![xing](https://img.shields.io/badge/Xing-%016567.svg?&style=for-the-badge&logo=xing&logoColor=white)][xing]
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
 ##
 
 ### Languages and Tools:
-<img align="left" alt="Intellij-IDEA" width="26px" src="intellij-idea.png" />
+<img align="left" alt="Intellij-IDEA" width="26px" src="resources/intellij-idea.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
