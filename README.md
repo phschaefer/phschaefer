@@ -7,6 +7,8 @@
 - 📫 How to reach me: ph.schaefer@protonmail.com
 - ⚡ Fun fact: I love geocaching and listening to country music
 
+---
+
 ### Connect with me:
 [![xing-svg]][xing]
 [![linkedin-svg]][linkedin]
