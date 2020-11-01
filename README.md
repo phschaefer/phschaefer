@@ -6,14 +6,13 @@
 - 🌱 I’m currently learning everything
 - 📫 How to reach me: ph.schaefer@protonmail.com
 - ⚡ Fun fact: I love geocaching and listening to country music
-
 ##
-
 ### Connect with me:
-[![xing](https://img.shields.io/badge/Xing-%016567.svg?&style=for-the-badge&logo=xing&logoColor=white)][xing]
-[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-
+[![xing-svg]][xing]
+[![linkedin-svg]][linkedin]
 ##
+### OS
+[![windows-svg]][windows]
 
 ### Languages and Tools:
 <img align="left" alt="Intellij-IDEA" width="26px" src="resources/intellij-idea.png" />
@@ -41,5 +40,12 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<!-- url -->
 [xing]: https://www.xing.com/profile/Philipp_Schaefer90/cv
 [linkedin]: https://www.linkedin.com/in/philipp-sch%C3%A4fer-231088146/
+[windows]: https://www.microsoft.com/
+
+<!-- svg -->
+[xing-svg]: https://img.shields.io/badge/xing-%23000000.svg?&style=for-the-badge&logo=xing&logoColor=white
+[linkedin-svg]: https://img.shields.io/badge/linkedin-%23000000.svg?&style=for-the-badge&logo=linkedin&logoColor=white
+[windows-svg]: https://img.shields.io/badge/windows-%23000000.svg?&style=for-the-badge&logo=windows&logoColor=white
