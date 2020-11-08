@@ -1,7 +1,7 @@
 [![header]]()
-#### Hi there, I'm Philipp 👨‍💻
+### Hi there, I'm Philipp 👨‍💻
 
-#### I'm a passionate software developer
+### I'm a passionate software developer
 
 - 🌱 I’m currently learning everything
 - 📫 How to reach me: ph.schaefer@protonmail.com
@@ -9,19 +9,19 @@
 
 ---
 
-#### Connect with me:
+### Connect with me:
 [![xing-svg]][xing]
 [![linkedin-svg]][linkedin]
 
 ---
 
-#### OS
+### OS
 [![windows-svg]]()
 [![android-svg]]()
 
 ---
 
-#### Skills
+### Skills
 [![html-svg]]()
 [![css-svg]]()
 [![javascript-svg]]()
